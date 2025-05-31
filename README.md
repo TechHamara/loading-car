@@ -16,6 +16,10 @@ This is a custom extension developed by TechHamara using Fast. It provides a loa
 
 ## Demo
 
+![b26941e6-ab5d-459b-9596-330e9d6b14b3.gif](https://github.com/user-attachments/assets/109fd494-d0ce-4b6b-8a31-257c6b02fe3c)
+
+![3a2cab87-104f-4f16-94cb-f599c6d44211.gif](https://github.com/user-attachments/assets/269b5cdb-4b84-4e8c-abc8-11113fc9e2e1)
+
 
 ## Blocks
 
