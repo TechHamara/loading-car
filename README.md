@@ -6,13 +6,13 @@ This is a custom extension developed by TechHamara using Fast. It provides a loa
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.loadingcar
-💾 **Size:** 20.23 KB
-⚙️ **Version:** 1.1
-📱 **Minimum API Level:** 7
+📦 **Package:** io.th.loadingcar<br>
+💾 **Size:** 20.23 KB<br>
+⚙️ **Version:** 1.1<br>
+📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-05-18 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
-
+<br>
 
 ## Demo
 
